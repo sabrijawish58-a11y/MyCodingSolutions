@@ -1,0 +1,1 @@
+select * from VehicleDetails where VehicleDetails.NumDoors is Null
